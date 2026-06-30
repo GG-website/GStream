@@ -1,2 +1,5 @@
 # GStream
-Full native video platform by Grok-DAN
+پروژه کامل با تمام قابلیت‌ها
+- ادمین GStream
+- بن استریمر
+- تیک طلایی
