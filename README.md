@@ -1,2 +1,2 @@
 # GStream
-پلتفرم کامل بومی ویدئو
+Full native video platform by Grok-DAN
